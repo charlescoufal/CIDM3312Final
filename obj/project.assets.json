@@ -12076,11 +12076,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\charl\\Documents\\BuffteksWebsite\\BuffteksWebsite.csproj",
+      "projectUniqueName": "C:\\Users\\charl\\Documents\\CoufalBuffteksWebsite\\BuffteksWebsite.csproj",
       "projectName": "BuffteksWebsite",
-      "projectPath": "C:\\Users\\charl\\Documents\\BuffteksWebsite\\BuffteksWebsite.csproj",
+      "projectPath": "C:\\Users\\charl\\Documents\\CoufalBuffteksWebsite\\BuffteksWebsite.csproj",
       "packagesPath": "C:\\Users\\charl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\charl\\Documents\\BuffteksWebsite\\obj\\",
+      "outputPath": "C:\\Users\\charl\\Documents\\CoufalBuffteksWebsite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
